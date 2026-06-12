@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .st0 {
+        fill: #929292;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M126.54,211.34h746.92v577.32H126.54V211.34Zm31.5,31.5v514.32h683.92V242.84H158.04Z"/>
+  <path class="st0" d="M221.18,337.84h557.64v31.5H221.18v-31.5Zm0,94.5h557.64v31.5H221.18v-31.5Zm0,94.5h378v31.5h-378v-31.5Z"/>
+</svg>
